@@ -1,2 +1,6 @@
 .ipynb_checkpoints/*
 .ipynb_checkpoints/VDM_distances-checkpoint.ipynb
+tmp.shx
+tmp.shp
+tmp.prj
+tmp.dbf
