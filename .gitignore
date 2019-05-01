@@ -9,5 +9,4 @@ tmp.dbf
 .ipynb_checkpoints/VDM_distances-checkpoint.ipynb
 MullerData/continental_polygons2.gpmlz
 
-results/*
 topology_plotting.pyc
