@@ -2,8 +2,8 @@
 <gpml:FeatureCollection xmlns:gpml="http://www.gplates.org/gplates" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/XMLSchema-instance" gpml:version="1.6.0338" xsi:schemaLocation="http://www.gplates.org/gplates ../xsd/gpml.xsd http://www.opengis.net/gml ../../../gml/current/base">
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-57045597-88ba-471a-b707-0e0aefc506df</gpml:identity>
-            <gpml:revision>GPlates-acbaf5ff-049a-49dd-8a34-e16b42c0aaaf</gpml:revision>
+            <gpml:identity>GPlates-2204f871-f092-4ae5-adc1-c45e1dd053bd</gpml:identity>
+            <gpml:revision>GPlates-744b0f60-a49c-48e8-90c5-14495368455c</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -63,8 +63,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-f7d971be-a75a-4ae0-8e32-97e6e015504b</gpml:identity>
-            <gpml:revision>GPlates-31faf95b-455e-4b3c-b61b-d0626cef3172</gpml:revision>
+            <gpml:identity>GPlates-c99d05a3-013c-4c5f-ab5d-6f2562f62036</gpml:identity>
+            <gpml:revision>GPlates-d46cacd9-44f5-4f45-9be7-a2de765c8a21</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -124,8 +124,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-86c9eb24-76fe-448a-9602-e14c6b9b2aa9</gpml:identity>
-            <gpml:revision>GPlates-8f704bc1-057e-4028-a9eb-b56b2c986b61</gpml:revision>
+            <gpml:identity>GPlates-b51c191b-da45-4418-a328-c942e780ae40</gpml:identity>
+            <gpml:revision>GPlates-15d094c0-c862-45b7-9e18-b6234506e9d4</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -185,8 +185,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-16172c13-b460-4672-b267-318d705f2136</gpml:identity>
-            <gpml:revision>GPlates-52ad1d1c-711e-4d19-ad13-0756171def01</gpml:revision>
+            <gpml:identity>GPlates-35ac49d0-b9d6-471f-902b-8a5b227bbd19</gpml:identity>
+            <gpml:revision>GPlates-985df436-74c0-418f-820c-e88618d88055</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -246,8 +246,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-c0381697-d2ad-46d9-9b4b-72dfebff44e5</gpml:identity>
-            <gpml:revision>GPlates-dfc87c95-9da3-4399-b452-3e8edfeba0e1</gpml:revision>
+            <gpml:identity>GPlates-8ebce5bf-ef2d-40c9-b057-106d9f46bdaf</gpml:identity>
+            <gpml:revision>GPlates-8868de6d-6d83-49a4-8f98-59bbeba7da09</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -307,8 +307,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-6ed07647-ce23-4bc4-9ac9-8011b90f7088</gpml:identity>
-            <gpml:revision>GPlates-a2a670c8-a4f3-4f12-970d-3849e519860d</gpml:revision>
+            <gpml:identity>GPlates-da1e345f-d790-4832-80d2-5e0b7afe02bf</gpml:identity>
+            <gpml:revision>GPlates-618bc918-4bfd-4a28-9687-f629a985e66e</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -368,8 +368,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-5dd22e80-7317-46bd-8dc9-bb5cc17311ea</gpml:identity>
-            <gpml:revision>GPlates-cdba3c12-bd2a-4c03-9989-d8ff31c5352d</gpml:revision>
+            <gpml:identity>GPlates-3385a4dc-b82a-4cd7-a3bd-b3ce85171d4b</gpml:identity>
+            <gpml:revision>GPlates-4e9dd5e1-c9a0-494e-9389-ff8e74c46961</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -429,8 +429,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-845be2f4-c4a3-4baa-ad4b-4a2b347654e5</gpml:identity>
-            <gpml:revision>GPlates-5ce7c5d5-de52-4a6f-ad11-b34af9fd97d6</gpml:revision>
+            <gpml:identity>GPlates-d6482fac-cac5-4d6c-a21f-20e5b0b586d8</gpml:identity>
+            <gpml:revision>GPlates-63fe4709-db69-4ccb-864f-d315864aa9ea</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -490,8 +490,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-eaebf56f-c3b3-4c00-a69d-713a18a170c6</gpml:identity>
-            <gpml:revision>GPlates-4f2f7ffe-4cd2-49db-aaf8-88ff313f9a93</gpml:revision>
+            <gpml:identity>GPlates-c6c9365d-8694-4a5f-932e-450fbe21e5b4</gpml:identity>
+            <gpml:revision>GPlates-ae146c49-74ad-4d3b-9e57-576c070c881c</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -551,8 +551,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-b47b6279-8fc4-4a1e-bfad-960c165b59f9</gpml:identity>
-            <gpml:revision>GPlates-f8a87a9a-bc44-4210-b17c-89175335c95a</gpml:revision>
+            <gpml:identity>GPlates-1f057d59-0e27-45fb-8bf7-5cd0dceb4abd</gpml:identity>
+            <gpml:revision>GPlates-f1230e3c-f83e-4916-95c4-5f77e35bc04e</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -612,8 +612,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-4368789c-05ec-48b1-83f6-8f5bdec72c32</gpml:identity>
-            <gpml:revision>GPlates-a8a3e404-cc29-4f7b-9e3a-618918f3480a</gpml:revision>
+            <gpml:identity>GPlates-65566c3a-77ee-474f-887c-33580562f7c9</gpml:identity>
+            <gpml:revision>GPlates-4e053873-6a78-469a-a226-d1b690892f84</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -673,8 +673,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-a6833a77-93a3-4c2c-8993-25af720b8fa7</gpml:identity>
-            <gpml:revision>GPlates-0ce64d0c-2fb5-4af1-b2bc-457bad004358</gpml:revision>
+            <gpml:identity>GPlates-037c22bc-6ba5-43e1-94f1-cf709ddb0d61</gpml:identity>
+            <gpml:revision>GPlates-a2634fdd-51d5-4de1-8bdd-a7e6d4dec873</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -734,8 +734,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-54f5bd59-4450-4d35-a707-d738e7f9cdce</gpml:identity>
-            <gpml:revision>GPlates-f816ce02-4d90-4e1f-9971-24c6e03f314c</gpml:revision>
+            <gpml:identity>GPlates-03912a3f-86e4-4295-9462-2b1217a7d3a8</gpml:identity>
+            <gpml:revision>GPlates-3b415326-e5d2-4878-956a-3d9bc6f2a5d4</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -795,8 +795,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-af6ff360-c4f4-4d88-8353-62ef257d1437</gpml:identity>
-            <gpml:revision>GPlates-b0b3daad-fb2d-4a95-9476-dfc09e0d881a</gpml:revision>
+            <gpml:identity>GPlates-5c5d82cb-c24b-4114-95cc-3d1edfea13ce</gpml:identity>
+            <gpml:revision>GPlates-25b81f7d-274c-477e-bdf5-d9a610c56a9d</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -856,8 +856,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-8b12b0bc-fc24-4719-ab2e-af172dd8a0a9</gpml:identity>
-            <gpml:revision>GPlates-764a4fcf-a7cc-480d-9ad2-6c035df3eaf2</gpml:revision>
+            <gpml:identity>GPlates-0d2a5fad-5e51-4659-b5a5-c5c104a78cef</gpml:identity>
+            <gpml:revision>GPlates-cb47b9db-7ebb-4fb2-be14-1e8df02ac108</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -917,8 +917,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-074535f7-436b-4e96-9f3c-56e40737c5e1</gpml:identity>
-            <gpml:revision>GPlates-bbfe07f9-7a80-45fc-822f-593a5f46cc38</gpml:revision>
+            <gpml:identity>GPlates-64873a1a-8108-4163-9215-1b0bc6689e9a</gpml:identity>
+            <gpml:revision>GPlates-7c143a54-fe49-427c-8c9c-36fc1389b285</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -978,8 +978,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-299161b6-c148-4fc5-aa80-9d5c2acae1a9</gpml:identity>
-            <gpml:revision>GPlates-5cb0c0ed-0143-4fc8-b75c-0cc297415673</gpml:revision>
+            <gpml:identity>GPlates-9e44731a-4f9b-4501-8e7e-bd5b486b1ba5</gpml:identity>
+            <gpml:revision>GPlates-19d79eeb-07b3-4e93-b387-7b95faca61cb</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -1039,8 +1039,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-417e09e8-0ce1-47e0-a57b-5212710991a6</gpml:identity>
-            <gpml:revision>GPlates-75e824fa-6807-477a-af29-9348326a9f54</gpml:revision>
+            <gpml:identity>GPlates-886a8008-7a0b-44ad-84c1-fcb264c6ab00</gpml:identity>
+            <gpml:revision>GPlates-3065e7a1-e56d-4f26-83af-b2ad243ef4a8</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -1100,8 +1100,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-cbd0093d-ef3a-4378-af21-2cb7d92bb846</gpml:identity>
-            <gpml:revision>GPlates-bf45153b-cf6e-4589-ab4b-9fb906dfb97e</gpml:revision>
+            <gpml:identity>GPlates-0ccce4cc-eb28-46f7-ad84-8359a5e469e5</gpml:identity>
+            <gpml:revision>GPlates-e2b40142-775d-4557-87e0-cff75d8ddc68</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -1161,8 +1161,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-0e749743-b298-4038-8be5-d31cd773c810</gpml:identity>
-            <gpml:revision>GPlates-d6b083a2-7720-4c6f-8bd6-77ecf3af6a5c</gpml:revision>
+            <gpml:identity>GPlates-421e2c13-7e5b-461b-8b44-4e35ee1d5e36</gpml:identity>
+            <gpml:revision>GPlates-9a911323-b216-42ad-aa01-4787cd41b690</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -1222,8 +1222,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-a32cdc1b-aa20-4373-a984-41caad2ea484</gpml:identity>
-            <gpml:revision>GPlates-a1e53fca-e0b7-4f85-aae3-81cfed7b0988</gpml:revision>
+            <gpml:identity>GPlates-4dc67b68-d454-43d7-b9e8-2188f292c099</gpml:identity>
+            <gpml:revision>GPlates-b9c4ef92-bc3b-4ad8-a722-d2df7a1b9d93</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -1283,8 +1283,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-9016ac2a-750b-4483-a01b-a9d1c2e39502</gpml:identity>
-            <gpml:revision>GPlates-f30eeb64-50d6-4875-ad1c-7f01707c96e4</gpml:revision>
+            <gpml:identity>GPlates-b226d913-a290-4c9b-9005-a5d66604335b</gpml:identity>
+            <gpml:revision>GPlates-f59b8315-06d2-43f7-9c50-39a12e008266</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -1344,8 +1344,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-156163cd-435a-4991-bae6-3a04e225246d</gpml:identity>
-            <gpml:revision>GPlates-4865735a-45c4-4f1f-87ae-7e8e307dcf23</gpml:revision>
+            <gpml:identity>GPlates-a7b15a3d-f343-44e6-8945-aa03e9ef7074</gpml:identity>
+            <gpml:revision>GPlates-a70efff6-8288-458a-a394-dafc2e130ea9</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -1405,8 +1405,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-db8a86a6-b28c-4777-a32c-ffb60c5ceef9</gpml:identity>
-            <gpml:revision>GPlates-c1669d45-f051-45c8-83d0-dc584eb1f512</gpml:revision>
+            <gpml:identity>GPlates-e429e7a1-7fe0-4b9f-ba06-634c6ef7d06c</gpml:identity>
+            <gpml:revision>GPlates-55239cfa-c2ee-4d43-afb5-967634beacce</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -1466,8 +1466,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-217bf657-7a17-432d-8533-b2ac2f575479</gpml:identity>
-            <gpml:revision>GPlates-b450e6fd-d555-4f8b-8719-3b1fea99436e</gpml:revision>
+            <gpml:identity>GPlates-cd36fa6b-a681-4e4c-9d6e-b255570d8e10</gpml:identity>
+            <gpml:revision>GPlates-2553a48b-5fb6-424a-ac6d-886cb31df9d9</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -1527,8 +1527,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-68c4138c-40a9-409d-887f-3b478152e85e</gpml:identity>
-            <gpml:revision>GPlates-8e769ed5-0717-487c-892d-5668b0a38afd</gpml:revision>
+            <gpml:identity>GPlates-2da1fdf8-9c81-423b-86a6-fc507de9c9c8</gpml:identity>
+            <gpml:revision>GPlates-7610a5e0-65e3-4886-a69d-d8f04bb1c240</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -1588,8 +1588,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-8c654c6c-5564-47f8-b97d-66d73a7bb30e</gpml:identity>
-            <gpml:revision>GPlates-fd5aaca0-70df-4cdd-b42d-385303a26614</gpml:revision>
+            <gpml:identity>GPlates-7926c522-0863-46f1-88b2-e894dda0d6d8</gpml:identity>
+            <gpml:revision>GPlates-de425de0-5cc3-4d2e-8273-7979d14a42d0</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -1649,8 +1649,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-bdea2855-3f8e-4c10-99c3-25f1c58744dc</gpml:identity>
-            <gpml:revision>GPlates-6851f6d7-dbc1-4065-8867-a3fda2a7543e</gpml:revision>
+            <gpml:identity>GPlates-e9a7854c-e92b-4f18-ab7b-4e3266b10d0c</gpml:identity>
+            <gpml:revision>GPlates-f8e9f630-d661-4164-9642-de35a85b2fbf</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -1710,8 +1710,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-7c0b51bb-1c27-47fd-9136-4c973656834e</gpml:identity>
-            <gpml:revision>GPlates-8722a3d8-4eac-436c-ae15-0d029ad8fe7c</gpml:revision>
+            <gpml:identity>GPlates-d2a0520a-6cab-4701-9312-5e3262ed31c5</gpml:identity>
+            <gpml:revision>GPlates-d273dd5c-de61-4536-a01a-d87fe7a5fdcd</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -1771,8 +1771,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-1c9f86a2-58d3-49ea-9ab3-36f4471499e8</gpml:identity>
-            <gpml:revision>GPlates-5bbb0bb4-1b7c-45c3-8f24-117c50b14408</gpml:revision>
+            <gpml:identity>GPlates-6fbe7aac-decd-4d2a-bfad-4c240e8f4c54</gpml:identity>
+            <gpml:revision>GPlates-b042eb40-8e8d-45f0-a971-93511983e18b</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -1832,8 +1832,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-c5c60be8-3973-4f77-932b-c00d65942ebb</gpml:identity>
-            <gpml:revision>GPlates-f1b460bb-858b-40ce-ada2-5f1465164935</gpml:revision>
+            <gpml:identity>GPlates-902a4d82-8e08-48d9-a595-c79144401e98</gpml:identity>
+            <gpml:revision>GPlates-4fb55f36-9cb1-4d3d-9d8f-c2780f7ba4ef</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -1893,8 +1893,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-5ac3e3d4-1919-4b9d-93de-d3a457e4daa9</gpml:identity>
-            <gpml:revision>GPlates-ecf5e123-20ca-4f2c-b2cb-ffbced859f0b</gpml:revision>
+            <gpml:identity>GPlates-1106dfc2-697e-459a-9d76-b262107711b1</gpml:identity>
+            <gpml:revision>GPlates-7f6ec0eb-b83e-4cf5-9cd5-ed180df6eb46</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -1954,8 +1954,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-8fa4701c-77f9-45d7-9b0d-54fac6820546</gpml:identity>
-            <gpml:revision>GPlates-9cfcbe67-fbbd-41d0-bea9-a3229e56db3c</gpml:revision>
+            <gpml:identity>GPlates-899979ae-f679-4045-a582-ffc14a327e73</gpml:identity>
+            <gpml:revision>GPlates-4fcaf84a-b7f2-4f96-90d6-b7519e5d4f03</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -2015,8 +2015,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-b63f4d6a-7b1b-45df-9982-c3505703dbda</gpml:identity>
-            <gpml:revision>GPlates-a98bd588-fb3b-4bae-b393-a536fb0545c5</gpml:revision>
+            <gpml:identity>GPlates-c53ecfa1-57fa-4350-97f3-e3e5ddade3ba</gpml:identity>
+            <gpml:revision>GPlates-bac4b287-f506-4e12-95af-1323a16bf96f</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -2076,8 +2076,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-a00296c5-bd19-4d6e-9848-3300dec93989</gpml:identity>
-            <gpml:revision>GPlates-ae3cd302-19b4-475a-992a-4c7c7d909544</gpml:revision>
+            <gpml:identity>GPlates-4dda83a4-fd35-4315-ab69-0d6880188355</gpml:identity>
+            <gpml:revision>GPlates-644dc13b-d7ff-4439-9409-06e2f3ffc930</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -2137,8 +2137,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-2a7141e2-1cf0-4e2f-b8e8-4d9cff480f43</gpml:identity>
-            <gpml:revision>GPlates-94a67234-e03f-4b16-9d71-28714d7e85d5</gpml:revision>
+            <gpml:identity>GPlates-93dcbb71-0ac3-473a-93aa-805cdae781d1</gpml:identity>
+            <gpml:revision>GPlates-e047876f-f3bc-4653-8d53-5df9e8e2f849</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -2198,8 +2198,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-c1b3e3c0-dfc9-4e4b-82b0-bc199a83b30f</gpml:identity>
-            <gpml:revision>GPlates-60a8bfd3-e214-42bd-8bdd-a2723da7e92e</gpml:revision>
+            <gpml:identity>GPlates-18d4a018-756f-4fbe-b448-3624c45d8690</gpml:identity>
+            <gpml:revision>GPlates-a6695dbd-dbc7-415f-b060-70b940ed0cd0</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -2259,8 +2259,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-ffc425a4-77b8-451e-8026-15851a4bd13d</gpml:identity>
-            <gpml:revision>GPlates-9c2f25f2-8556-43fe-980c-92e99827c9f8</gpml:revision>
+            <gpml:identity>GPlates-fc272b25-e88e-4518-9753-4b0149fea427</gpml:identity>
+            <gpml:revision>GPlates-e37c1150-5f6c-4994-a1fa-04dba8b51c46</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -2320,8 +2320,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-55c3dc4f-cc6a-487d-b60a-c94174424271</gpml:identity>
-            <gpml:revision>GPlates-f4295001-6645-4af5-8776-3cbc0ccaf943</gpml:revision>
+            <gpml:identity>GPlates-8e15392c-d1d7-412b-ac0d-ca10931ac212</gpml:identity>
+            <gpml:revision>GPlates-0820f40d-cc2b-47d9-b243-b4d9d4bd5d57</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -2381,8 +2381,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-eac51efc-2296-4ca1-a105-f0abcc907b6e</gpml:identity>
-            <gpml:revision>GPlates-506222f3-6418-4286-b949-4cf0466e1d5d</gpml:revision>
+            <gpml:identity>GPlates-bd96a03f-62ea-4819-a80e-437d6f4cef55</gpml:identity>
+            <gpml:revision>GPlates-fd2c59a1-4c5e-42f5-9e6e-ca0507b2295b</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -2442,8 +2442,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-8c32eda8-d694-480d-a007-55d2756f7db7</gpml:identity>
-            <gpml:revision>GPlates-70842b6d-505b-475c-8d66-70042430aa2a</gpml:revision>
+            <gpml:identity>GPlates-8fc61beb-4848-47d7-a6fe-dfa4758575db</gpml:identity>
+            <gpml:revision>GPlates-f66cfb8c-eadd-4621-9631-634980523de7</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -2503,8 +2503,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-bfdddef7-a8f6-4479-ae74-277f17c9fe1d</gpml:identity>
-            <gpml:revision>GPlates-36142cda-fa9c-41bf-9132-a444de8cca2b</gpml:revision>
+            <gpml:identity>GPlates-78af2d68-ffc9-47c3-bbb5-402271c49013</gpml:identity>
+            <gpml:revision>GPlates-5a2ed728-7cf3-4037-b427-6eb87cbac7dc</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -2564,8 +2564,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-6b13a8a1-4301-49f5-adea-091d2804f79e</gpml:identity>
-            <gpml:revision>GPlates-8928cb7a-9a29-4692-9a97-36af47b6868e</gpml:revision>
+            <gpml:identity>GPlates-d188c99d-2519-4c16-acde-7798342e7ef5</gpml:identity>
+            <gpml:revision>GPlates-52139ef7-734f-4168-83c2-97cc085c4201</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -2625,8 +2625,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-9e06e146-f92d-4533-a907-e58a75c1e0b9</gpml:identity>
-            <gpml:revision>GPlates-fa469da2-c741-4871-a1f2-624100eb5f88</gpml:revision>
+            <gpml:identity>GPlates-eddd3e9d-ccd1-403f-b36c-50bd689afe18</gpml:identity>
+            <gpml:revision>GPlates-43bcc08e-0394-49e1-b752-9383da208450</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -2686,8 +2686,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-44d9a63b-a230-40a9-99f9-6c2b4bdf21b2</gpml:identity>
-            <gpml:revision>GPlates-fb0919dc-5834-4806-b291-4cdea880c21c</gpml:revision>
+            <gpml:identity>GPlates-17625d46-2223-4ee5-89ba-1d18cd94f6f2</gpml:identity>
+            <gpml:revision>GPlates-d8a4e7e7-b176-4304-a802-305cfb50c99f</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -2747,8 +2747,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-4509835b-8952-4e7b-a5ed-31a531b7fdbd</gpml:identity>
-            <gpml:revision>GPlates-63f06bbf-4f80-4dca-927d-2cbe19063d00</gpml:revision>
+            <gpml:identity>GPlates-5f2f4bed-624d-4224-89fd-8fe7a09d5362</gpml:identity>
+            <gpml:revision>GPlates-f5cf1dfe-113d-4c1e-9bf0-13c500292c23</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -2808,8 +2808,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-78ba4719-639d-463c-afaf-2da7ff3d467e</gpml:identity>
-            <gpml:revision>GPlates-f7e7f95f-f782-401b-b369-e25121dcbee5</gpml:revision>
+            <gpml:identity>GPlates-7c7a3ecf-f24e-40fc-9787-89759c7e0cf9</gpml:identity>
+            <gpml:revision>GPlates-f7c7c475-f949-4d28-89c6-b69895d9c792</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -2869,8 +2869,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-c5b1092a-00b6-4e83-a227-d376e3e5a442</gpml:identity>
-            <gpml:revision>GPlates-28cf9e17-1382-47ac-87b0-b83a82853fa9</gpml:revision>
+            <gpml:identity>GPlates-f480c254-12e2-43cc-b109-6f76d2c23949</gpml:identity>
+            <gpml:revision>GPlates-853983d1-ae0c-4fc9-a2c6-7714c9ed54b4</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -2930,8 +2930,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-c03b1843-02b9-4599-b7fc-991daa8cab1c</gpml:identity>
-            <gpml:revision>GPlates-a99c4c00-de04-4918-9046-2c8ffdcfbbed</gpml:revision>
+            <gpml:identity>GPlates-ba5606cd-0edc-48e6-9fef-f3106209f68d</gpml:identity>
+            <gpml:revision>GPlates-40a88b72-0df8-4d6d-9bab-be8c411ee3f4</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -2991,8 +2991,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-d998f42e-3a8f-46d8-b261-522589188356</gpml:identity>
-            <gpml:revision>GPlates-46a7e6ee-44b9-4ecb-982a-065bdec8fd3b</gpml:revision>
+            <gpml:identity>GPlates-64e5caa1-f69a-4f82-94af-c88955c5e3c6</gpml:identity>
+            <gpml:revision>GPlates-526d14d5-e780-49f8-8afc-5a3cc8dd9618</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -3052,8 +3052,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-53b6b54f-defd-4d7a-b4f7-1863918120a1</gpml:identity>
-            <gpml:revision>GPlates-b823a404-c2d8-4ecd-acb4-6619e993fe4b</gpml:revision>
+            <gpml:identity>GPlates-0f4cce3b-2c79-401c-871a-82fc228c618a</gpml:identity>
+            <gpml:revision>GPlates-dcbdb7d5-597d-48a5-afe5-cf8b8a9b6f58</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -3113,8 +3113,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-3439d603-f248-409c-9cf7-63606fa0f7ec</gpml:identity>
-            <gpml:revision>GPlates-f21725d1-6f01-4719-b203-362607dd90a9</gpml:revision>
+            <gpml:identity>GPlates-e3456796-e843-488c-9988-a377be24b44e</gpml:identity>
+            <gpml:revision>GPlates-e23d2fd4-4f66-4df1-8054-dd453445fe23</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -3174,8 +3174,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-9886834a-a11b-486a-88a9-6cb7d403088a</gpml:identity>
-            <gpml:revision>GPlates-0ff217e6-8240-4896-8797-0b1a00f920dd</gpml:revision>
+            <gpml:identity>GPlates-b390365e-3d9a-42d0-8261-96c5831b893c</gpml:identity>
+            <gpml:revision>GPlates-54989259-5905-4906-b8bc-c3253a33e855</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -3235,8 +3235,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-de151b25-5aaf-4d78-879d-09e3b7c978b9</gpml:identity>
-            <gpml:revision>GPlates-970d22ae-2a28-43f9-8c21-445f03ed073e</gpml:revision>
+            <gpml:identity>GPlates-9a054d3b-b448-428c-b5b3-bede891752df</gpml:identity>
+            <gpml:revision>GPlates-facfc333-52ed-4618-8b23-95b7aace928a</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -3296,8 +3296,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-6cdd578b-6e55-4933-b097-7b3b1d4cd63d</gpml:identity>
-            <gpml:revision>GPlates-bcf3dbab-0359-4e82-ab1e-c73a25431d4c</gpml:revision>
+            <gpml:identity>GPlates-c99a5df6-ec4b-416f-b706-0da03fcddd31</gpml:identity>
+            <gpml:revision>GPlates-2a837b28-9bd1-4888-aa4e-6afea173ce24</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -3357,8 +3357,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-a484db1b-416a-4acd-a701-f0b0f922242a</gpml:identity>
-            <gpml:revision>GPlates-5c985449-7001-4cf0-a684-5d534f8a27f3</gpml:revision>
+            <gpml:identity>GPlates-867fb216-5c9a-4e9c-bdac-0ff057f7f149</gpml:identity>
+            <gpml:revision>GPlates-5bdd19ee-c97d-443a-a9df-5addf40e3222</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -3418,8 +3418,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-37f1bf97-7cf3-42df-931a-0efd48e53671</gpml:identity>
-            <gpml:revision>GPlates-42a243f3-1e3b-485e-a336-24533a63b7a9</gpml:revision>
+            <gpml:identity>GPlates-73ccc942-32f0-4c4b-87e8-f9ae60417096</gpml:identity>
+            <gpml:revision>GPlates-a9ee1fac-711c-4a6d-bd47-4711855418b0</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -3479,8 +3479,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-f8f90572-6920-4a19-8498-26b354b64e36</gpml:identity>
-            <gpml:revision>GPlates-3b11f109-0d69-4fbd-a9dd-79f417996da8</gpml:revision>
+            <gpml:identity>GPlates-8f875c29-c72d-4594-a848-d4e8db11971a</gpml:identity>
+            <gpml:revision>GPlates-f7fe0004-fe54-413f-9783-1d20d26bfcc0</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -3540,8 +3540,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-62adb263-cac5-481d-9cb7-96c7cd7e5a60</gpml:identity>
-            <gpml:revision>GPlates-b2cd304a-f85f-42c6-9fdb-7385c593ad50</gpml:revision>
+            <gpml:identity>GPlates-85b88d8c-f765-437d-b7fa-6db087a1670c</gpml:identity>
+            <gpml:revision>GPlates-d17c6e1f-397e-4f71-8c69-071a4662da45</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -3601,8 +3601,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-a0f10816-0bc0-4e2a-a262-3677283a1e9a</gpml:identity>
-            <gpml:revision>GPlates-d142b35f-efc0-4b99-a373-bb81bb43c1a7</gpml:revision>
+            <gpml:identity>GPlates-db30de72-d6ac-44e3-88b9-5203589ef8e0</gpml:identity>
+            <gpml:revision>GPlates-e12a43b3-3927-4410-b079-c9de442cd957</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -3662,8 +3662,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-9247073f-2685-4ce2-8b66-9e23f369c702</gpml:identity>
-            <gpml:revision>GPlates-00d89bae-0ff9-469f-9f28-247b1cef4899</gpml:revision>
+            <gpml:identity>GPlates-a4abf8a1-87a5-4191-8a91-054188945ad9</gpml:identity>
+            <gpml:revision>GPlates-b031b8a7-d6bf-4f5a-a54f-39abb135bec8</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -3723,8 +3723,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-e0c38918-9d2e-4ae8-a289-685d870d5c57</gpml:identity>
-            <gpml:revision>GPlates-d0dc4342-be03-40be-ae91-35f2751993a3</gpml:revision>
+            <gpml:identity>GPlates-52ce84a1-185b-484f-9bd1-2f4269480cf3</gpml:identity>
+            <gpml:revision>GPlates-be13dc0e-165b-4c58-bd3f-db01933b2e3a</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -3784,8 +3784,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-37c93cd0-b43b-49bb-aa03-d83e38eca06d</gpml:identity>
-            <gpml:revision>GPlates-96268400-5692-43d1-8dc2-fe3acdcb9d07</gpml:revision>
+            <gpml:identity>GPlates-5b4b0b97-a534-4840-bff9-86da2d197672</gpml:identity>
+            <gpml:revision>GPlates-a8482116-bcb3-49a6-ad27-12055210fd92</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -3845,8 +3845,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-f3fb8c42-d077-4602-957e-620df522ba90</gpml:identity>
-            <gpml:revision>GPlates-0e06e1e8-e631-48ed-875e-118bd5f20428</gpml:revision>
+            <gpml:identity>GPlates-25ee4bb6-4e9c-48d1-b1cf-0f68bd89697f</gpml:identity>
+            <gpml:revision>GPlates-47cd7579-0446-4bd8-915a-7b75f00b3584</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -3906,8 +3906,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-d1c45afe-1872-4d63-a90f-68bacc1c3ba2</gpml:identity>
-            <gpml:revision>GPlates-21769922-b86e-47ab-9700-bcbe4ad44dd9</gpml:revision>
+            <gpml:identity>GPlates-8354235e-e468-45d3-a89c-299267e39f69</gpml:identity>
+            <gpml:revision>GPlates-454ef274-f471-4327-a34d-76c13c1b86c8</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -3967,8 +3967,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-f981fd2b-36d8-4f73-bac3-a97747bee21c</gpml:identity>
-            <gpml:revision>GPlates-ea5b8e0b-a184-41f8-a56e-00291e6cf824</gpml:revision>
+            <gpml:identity>GPlates-373945a9-349f-4830-b0f1-8963ff5e01de</gpml:identity>
+            <gpml:revision>GPlates-646a4400-caa1-4af4-854a-70e22cfd007e</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -4028,8 +4028,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-2616b85f-aa77-4583-8587-e412c1c80a56</gpml:identity>
-            <gpml:revision>GPlates-424f2bda-b244-427b-b8d7-b9dd304b8e98</gpml:revision>
+            <gpml:identity>GPlates-54ef5378-8d0d-4bec-8857-2fdc60d5d8b5</gpml:identity>
+            <gpml:revision>GPlates-c9392bd3-89a2-42ba-a5f1-0067838060db</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -4089,8 +4089,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-c82a0105-79f7-4d6b-b6a1-861492863b6d</gpml:identity>
-            <gpml:revision>GPlates-0b7354f2-7500-4770-b2bd-5586f83425a6</gpml:revision>
+            <gpml:identity>GPlates-147576f4-2651-47e1-a4e3-002159e95817</gpml:identity>
+            <gpml:revision>GPlates-28fe8764-c4a5-4365-8f6a-19117e9b421b</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -4150,8 +4150,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-6028eda0-5da6-44dd-9690-bc03b5c44254</gpml:identity>
-            <gpml:revision>GPlates-692fdb6e-ce41-445a-b623-f36ee010018f</gpml:revision>
+            <gpml:identity>GPlates-d0e53d98-5bdf-4651-8561-76078da44e89</gpml:identity>
+            <gpml:revision>GPlates-2d4d6745-1a53-4eea-8cd5-17ec4ff3caf3</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -4211,8 +4211,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-2429095c-81f1-4f37-9c4e-983e4a864b84</gpml:identity>
-            <gpml:revision>GPlates-6b9b5a39-2d75-44b5-ae60-d9dd9a46cddc</gpml:revision>
+            <gpml:identity>GPlates-28e55b1d-7a0c-43aa-a024-0cda88000b6a</gpml:identity>
+            <gpml:revision>GPlates-bac8b0b7-6b13-4c20-b960-1886472216d7</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -4272,8 +4272,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-7159c458-7f58-415b-ae06-926350afaf74</gpml:identity>
-            <gpml:revision>GPlates-355b454c-780f-4fba-a6da-086a1fa886ab</gpml:revision>
+            <gpml:identity>GPlates-3b419582-fe26-4782-8c64-5bdbb7402552</gpml:identity>
+            <gpml:revision>GPlates-77f25d62-f55f-4def-bdaf-7b656ede860f</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -4333,8 +4333,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-9c8c8ab4-187f-49d7-ae39-9e510ff61ac7</gpml:identity>
-            <gpml:revision>GPlates-668d6738-7df7-430f-87fe-f357d1e8395d</gpml:revision>
+            <gpml:identity>GPlates-0fb096e0-d728-4012-8630-f0f1c1abe1cc</gpml:identity>
+            <gpml:revision>GPlates-a6ccd068-0c21-459d-bfe0-fe66097999ac</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -4394,8 +4394,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-11ef562b-b219-4c15-8037-671715d8ffac</gpml:identity>
-            <gpml:revision>GPlates-52e76346-9f79-4980-8da2-df776c5697c2</gpml:revision>
+            <gpml:identity>GPlates-b9990491-7490-4373-82c4-4a7b59886957</gpml:identity>
+            <gpml:revision>GPlates-70bc3f0b-f7b8-4c29-ac0d-e82a8832cea5</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -4455,8 +4455,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-e0c7829b-6459-4705-b641-1368fea6663a</gpml:identity>
-            <gpml:revision>GPlates-8f80943b-310e-4b55-b884-0c5c6399029f</gpml:revision>
+            <gpml:identity>GPlates-7a19b62d-f086-44e1-a149-ecc1ca36e77c</gpml:identity>
+            <gpml:revision>GPlates-50ceea7b-7b62-4b50-81a6-cf9fdd88003b</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -4516,8 +4516,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-724e2c72-73c2-4228-88ce-e2120165081d</gpml:identity>
-            <gpml:revision>GPlates-9fa9fe33-90e4-4387-a8e5-81c5e93d0e02</gpml:revision>
+            <gpml:identity>GPlates-ec2c30b6-958a-4708-ae0b-b0a181b22599</gpml:identity>
+            <gpml:revision>GPlates-29a0b1e3-1de0-4c20-b535-a613812a82e8</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -4577,8 +4577,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-58450611-e116-40a1-8970-c8bcbbd282b9</gpml:identity>
-            <gpml:revision>GPlates-174ec0ad-adfc-4076-bb0d-41ae7ff93ca1</gpml:revision>
+            <gpml:identity>GPlates-8db0b61f-2933-45ee-a325-c13099f64f28</gpml:identity>
+            <gpml:revision>GPlates-349f3342-71c7-4110-bcd3-1bfe04ccc73a</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -4638,8 +4638,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-e7c5f0e1-5c4e-421d-8bae-611e1d2dd925</gpml:identity>
-            <gpml:revision>GPlates-22a0920b-7ff4-4815-b6f7-77040b9587d1</gpml:revision>
+            <gpml:identity>GPlates-2d7dbb3d-ce4b-45ef-8fff-1baa5aa4856b</gpml:identity>
+            <gpml:revision>GPlates-b80238f4-9624-4615-9acc-e558cbc8e089</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -4699,8 +4699,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-5ee8b412-dea3-4469-8762-69db2acc9c9e</gpml:identity>
-            <gpml:revision>GPlates-e055538d-03b8-471c-96d8-bedb8cff5cec</gpml:revision>
+            <gpml:identity>GPlates-afcaa815-e3c3-4c03-9959-3415f51a37ff</gpml:identity>
+            <gpml:revision>GPlates-d8e8916f-67fd-409a-9934-3f41990d4a27</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -4760,8 +4760,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-e19b423a-bd95-4d7b-b7f5-3273f25409d8</gpml:identity>
-            <gpml:revision>GPlates-82748f57-34bf-4b4c-86de-5e7685f18921</gpml:revision>
+            <gpml:identity>GPlates-275cea8b-2779-4455-b125-26dcf4257dc9</gpml:identity>
+            <gpml:revision>GPlates-40e7eb6c-3e86-408a-aa7a-c8ee3b13efc3</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -4821,8 +4821,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-c9fdf7c1-7d47-4965-823f-c33872f634d0</gpml:identity>
-            <gpml:revision>GPlates-311cceb2-c258-4b9f-8fb5-be0356be1a33</gpml:revision>
+            <gpml:identity>GPlates-bd6569be-b105-496c-9692-188fe506f66c</gpml:identity>
+            <gpml:revision>GPlates-2c1d75a5-9bbb-4b7d-b939-5a84143fa5ed</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -4882,8 +4882,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-a249c85a-fb6f-4383-afe8-680f744776a9</gpml:identity>
-            <gpml:revision>GPlates-249b4f6a-1ab7-4376-b809-5ac1170f9f01</gpml:revision>
+            <gpml:identity>GPlates-977064d3-d366-4566-9489-79e24a777b09</gpml:identity>
+            <gpml:revision>GPlates-d89a47bb-d793-481b-9b12-7e19dcb0ef76</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -4943,8 +4943,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-420ac401-deb0-4b40-8f8c-8ec72c4ac995</gpml:identity>
-            <gpml:revision>GPlates-ab8ba59d-a2dd-4931-ac8d-6c159138d719</gpml:revision>
+            <gpml:identity>GPlates-1f82d520-f62d-4899-8a87-4278c171555d</gpml:identity>
+            <gpml:revision>GPlates-8eca0eab-85fe-4a2e-a3a2-d0a005ef6cde</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -5004,8 +5004,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-397c5f6b-39ef-4595-943a-bb177f13532b</gpml:identity>
-            <gpml:revision>GPlates-dbe0c564-f05c-4efc-8162-aec6b1c7a937</gpml:revision>
+            <gpml:identity>GPlates-d9eaf766-41c2-4f3f-88da-4b8e1a636d36</gpml:identity>
+            <gpml:revision>GPlates-bb4f120c-f7b8-40d3-91ef-8c3ec7b88b3e</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -5065,8 +5065,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-2b430e99-2546-41fe-aa88-e1277e40579c</gpml:identity>
-            <gpml:revision>GPlates-b1c0596d-4551-4254-a9b0-4559d72a4602</gpml:revision>
+            <gpml:identity>GPlates-681c0cad-f5ca-49e2-9a14-55e91c80d756</gpml:identity>
+            <gpml:revision>GPlates-7a99a546-33e1-4946-9906-7439b9d26c6b</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -5126,8 +5126,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-5a3d281e-a967-4a3f-b30d-31c6e9f67aa1</gpml:identity>
-            <gpml:revision>GPlates-9d50944c-a385-41ff-aeb0-8dd295eb7fb3</gpml:revision>
+            <gpml:identity>GPlates-4b25cd2a-aa67-4649-aae0-f2bc255e5d31</gpml:identity>
+            <gpml:revision>GPlates-cb0b0219-b790-4f5f-950c-4666fc14088d</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -5187,8 +5187,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-65ab8bbd-052f-400d-8d0e-c7e1f8dcc8a6</gpml:identity>
-            <gpml:revision>GPlates-ca9cc67e-5f92-4f77-9706-774afe964774</gpml:revision>
+            <gpml:identity>GPlates-8140f8b1-f70e-489b-beb2-765790d5ab5d</gpml:identity>
+            <gpml:revision>GPlates-25cfe978-5bad-4506-ae3a-c43a276ef11a</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -5248,8 +5248,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-de792481-baa6-4ba1-be1c-38f85a5f99da</gpml:identity>
-            <gpml:revision>GPlates-7bdfc041-c9e2-4161-98d6-a51ad798f6b4</gpml:revision>
+            <gpml:identity>GPlates-361ab8d4-e50d-4982-bc2b-1fd3bf021c1d</gpml:identity>
+            <gpml:revision>GPlates-2a4f01df-adfe-4976-b85e-dfaa5bb3a011</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -5309,8 +5309,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-1bb321b9-5156-4bdf-ab6b-6a23d466eea8</gpml:identity>
-            <gpml:revision>GPlates-a041873a-50f2-44e6-ac63-c740a54987ae</gpml:revision>
+            <gpml:identity>GPlates-542d7f9a-4178-4a48-bf2e-dbe11bf88591</gpml:identity>
+            <gpml:revision>GPlates-d6216b17-fccf-461c-884f-d1f4aa2312cd</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -5370,8 +5370,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-75d480d3-ecb1-4774-af5f-a8f0248bd547</gpml:identity>
-            <gpml:revision>GPlates-4ed42603-cded-4af1-8a77-a5fb2f106eea</gpml:revision>
+            <gpml:identity>GPlates-df8344b7-7887-4432-b997-00656ed9b66e</gpml:identity>
+            <gpml:revision>GPlates-4029af67-c498-40d1-9049-3aac6baebeda</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -5431,8 +5431,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-06d462d4-63f9-4f3e-8d10-736e33317fa8</gpml:identity>
-            <gpml:revision>GPlates-4e153bca-7d9f-435c-9355-1d6cbbbd13e5</gpml:revision>
+            <gpml:identity>GPlates-71e716e9-fa3c-4c51-8fa0-92649b2f557f</gpml:identity>
+            <gpml:revision>GPlates-3af3cf6d-9a27-4134-b125-fe69df650ec7</gpml:revision>
             <gpml:shapefileAttributes>
                 <gpml:KeyValueDictionary>
                     <gpml:element>
@@ -5506,8 +5506,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-b4051c21-60a6-4bcb-b0ec-571c644ffddd</gpml:identity>
-            <gpml:revision>GPlates-f8c3577c-3778-4d0c-b5b2-19b4094ebebf</gpml:revision>
+            <gpml:identity>GPlates-45c8000b-89f7-4bfe-a52c-1abd0a260f28</gpml:identity>
+            <gpml:revision>GPlates-77ad78a5-ee3b-41a6-88f8-aede35294a19</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -5567,8 +5567,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-ddc42baa-8193-4628-8bf8-0fb87c9fa1d3</gpml:identity>
-            <gpml:revision>GPlates-b65e3ec2-6351-46d4-84fb-6b2cc5b00f1f</gpml:revision>
+            <gpml:identity>GPlates-83f6650d-47c8-433f-b212-ef6d7daf664d</gpml:identity>
+            <gpml:revision>GPlates-9bdc4eab-45a5-4b7f-b317-c5a6edba6338</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -5628,8 +5628,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-9c7ef341-c2c1-45e7-8394-5baa52b36b50</gpml:identity>
-            <gpml:revision>GPlates-4db23c18-912c-4d57-8c05-3f2e166a59cb</gpml:revision>
+            <gpml:identity>GPlates-82c76491-d0bc-48d5-8e81-9775635442ab</gpml:identity>
+            <gpml:revision>GPlates-c0794005-3fa1-49bb-a799-20e3b1c9d56a</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -5689,8 +5689,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-1157b87b-153e-49eb-8b77-19d43446e8ae</gpml:identity>
-            <gpml:revision>GPlates-d9258d0e-2ed1-446e-a953-4e6bb97f6291</gpml:revision>
+            <gpml:identity>GPlates-82c82cc7-53a7-482f-ad68-8cf5fae6fff3</gpml:identity>
+            <gpml:revision>GPlates-4026bc0d-57a1-4387-aff0-f2bb87e66012</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -5750,8 +5750,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-20f36421-b226-4f4b-af12-1c08def1bf8b</gpml:identity>
-            <gpml:revision>GPlates-6a2ed3c9-6c63-4a79-a157-653926cb4802</gpml:revision>
+            <gpml:identity>GPlates-6867aa21-2a48-488a-a4b2-4090786fea21</gpml:identity>
+            <gpml:revision>GPlates-e13f1a93-a725-45d6-88b0-82954f0b6a68</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -5811,8 +5811,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-b23b2271-f697-454b-b105-a4e4e8d9f8a7</gpml:identity>
-            <gpml:revision>GPlates-13e0a5ec-d177-4808-a698-4835800d1119</gpml:revision>
+            <gpml:identity>GPlates-a854548d-6d33-415f-8989-0ceda24a170a</gpml:identity>
+            <gpml:revision>GPlates-6dc2a5d6-bc2a-49ff-8d18-b6eae34ae482</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -5872,8 +5872,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-35ebd9d2-f37e-458b-a60e-0e8e16c75810</gpml:identity>
-            <gpml:revision>GPlates-02d0bc9c-2f3b-4611-a944-588c60519571</gpml:revision>
+            <gpml:identity>GPlates-f7e9cd9b-e975-4e5e-a172-0c8727ffe6e2</gpml:identity>
+            <gpml:revision>GPlates-59fb1d96-ff48-42d1-aba9-3c213b48b200</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -5933,8 +5933,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-75832fcd-038f-4060-9241-77ebbc435583</gpml:identity>
-            <gpml:revision>GPlates-04d9a328-30cb-4475-87e2-8e33ad256dc3</gpml:revision>
+            <gpml:identity>GPlates-35fe8170-bf69-4efb-973d-37a0b0a95947</gpml:identity>
+            <gpml:revision>GPlates-962130e4-58cc-4393-84fd-60857cdde354</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -5994,8 +5994,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-14f1a14d-3012-46af-a196-227638ab2466</gpml:identity>
-            <gpml:revision>GPlates-2580a689-db43-41d9-835b-7d8c5cc70ef9</gpml:revision>
+            <gpml:identity>GPlates-9a8498d7-2ca7-450a-b569-2df2a5e28f47</gpml:identity>
+            <gpml:revision>GPlates-37729673-bbb0-4489-bacc-a07993759d31</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -6055,8 +6055,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-9faf6968-5719-4c9d-bb51-a8224d3ced30</gpml:identity>
-            <gpml:revision>GPlates-6ee57e30-c9b5-4ccb-92b5-fd74f9bf9d68</gpml:revision>
+            <gpml:identity>GPlates-ca36e752-fad8-445b-b8be-394ac0a5cc40</gpml:identity>
+            <gpml:revision>GPlates-35a735ae-9dc5-4ed2-b1f7-776e27e472cc</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -6116,8 +6116,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-c88f5973-7e28-4054-b792-8a47486b6219</gpml:identity>
-            <gpml:revision>GPlates-fef170dd-1ed7-447f-9583-1066f1aa1349</gpml:revision>
+            <gpml:identity>GPlates-2cde9e36-0317-47e7-8c4e-0bfc6410d7a5</gpml:identity>
+            <gpml:revision>GPlates-9295d065-4885-4662-9d19-da437edd1ef4</gpml:revision>
             <gpml:shapefileAttributes>
                 <gpml:KeyValueDictionary>
                     <gpml:element>
@@ -6191,8 +6191,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-d95d0453-6c3a-452f-b5c4-afb9db4ae372</gpml:identity>
-            <gpml:revision>GPlates-690f59c8-1add-40d4-83f7-c7b4b9011d01</gpml:revision>
+            <gpml:identity>GPlates-37e161f4-c43d-44e7-a7fb-609474019bdc</gpml:identity>
+            <gpml:revision>GPlates-d680a1bb-b5b3-4353-97c7-45463b862c1f</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -6252,8 +6252,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-adc55c5f-a9d4-4fcc-8b18-c1f74b4ca3b2</gpml:identity>
-            <gpml:revision>GPlates-b9b7afb6-c0cd-4495-b4b0-3a4e34830fbe</gpml:revision>
+            <gpml:identity>GPlates-4a8aa728-94c9-4d5c-a24a-ad5947e2eae7</gpml:identity>
+            <gpml:revision>GPlates-4cdb9f21-d7ee-42ba-bfb3-d7211c28c2a1</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -6313,8 +6313,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-72b4f1fb-9e23-4f70-a08d-41fd22ff3356</gpml:identity>
-            <gpml:revision>GPlates-5e03f862-7021-4957-ad25-8af482150f4d</gpml:revision>
+            <gpml:identity>GPlates-6c07c733-e255-4788-bf1d-242331a4ced1</gpml:identity>
+            <gpml:revision>GPlates-a18d3da9-be4f-4fdd-9023-b4e4db883f69</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -6374,8 +6374,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-5ab1127a-9cac-4494-9a54-cf506a9df982</gpml:identity>
-            <gpml:revision>GPlates-7c13487d-2f3e-4824-882a-15408651191f</gpml:revision>
+            <gpml:identity>GPlates-f5bb7630-d505-47a4-a3d1-ce8756692f51</gpml:identity>
+            <gpml:revision>GPlates-9095b8d4-135c-4c04-8663-42c9b8359d59</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -6435,8 +6435,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-560870a8-66eb-44b8-96ef-848c3420736f</gpml:identity>
-            <gpml:revision>GPlates-802f5a46-e6ba-47c2-a39d-0249544c8d14</gpml:revision>
+            <gpml:identity>GPlates-a56c95ea-667e-43ac-ae62-7d58b2e9e92c</gpml:identity>
+            <gpml:revision>GPlates-5ce2c49d-e5eb-498f-8f0d-e22f4f73d414</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -6496,8 +6496,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-ac38c3d2-4dda-4440-aeb4-f1d4dea1b4e2</gpml:identity>
-            <gpml:revision>GPlates-7fcb9dc6-76e5-4caa-9961-6c209d423498</gpml:revision>
+            <gpml:identity>GPlates-def62297-3a8c-400b-a02c-62b591bde407</gpml:identity>
+            <gpml:revision>GPlates-e01f6150-2750-43df-a7a9-d712a24c96cf</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -6557,8 +6557,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-3397b78d-620e-4ea3-8ba2-3f40f400e4e5</gpml:identity>
-            <gpml:revision>GPlates-b8a04eb5-6444-43f7-85c1-2019f23e0d83</gpml:revision>
+            <gpml:identity>GPlates-12e4b43e-dbe1-4a8c-bbcd-03f97d31cdc0</gpml:identity>
+            <gpml:revision>GPlates-80be23b7-546c-499c-abd9-1c19a52ae522</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -6618,8 +6618,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-2df251da-34b8-4fe7-b2a4-a22fb9146708</gpml:identity>
-            <gpml:revision>GPlates-7574c8ac-a3e6-4a94-bde0-244f8a24c21c</gpml:revision>
+            <gpml:identity>GPlates-4af147f8-7df3-4d90-bbc5-781c7d6ebfac</gpml:identity>
+            <gpml:revision>GPlates-de0908ac-3d24-4189-81e3-a9b1ffca31cd</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -6679,8 +6679,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-d458969f-42c7-4f77-918e-5e732fa4381d</gpml:identity>
-            <gpml:revision>GPlates-2979501c-69d2-404a-844f-ece2068eceea</gpml:revision>
+            <gpml:identity>GPlates-27a962cf-2b47-4d4f-be7d-65d7df5908dd</gpml:identity>
+            <gpml:revision>GPlates-a20bd59c-59fc-42c4-9c83-7db12e457d2f</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -6740,8 +6740,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-a902237b-a9b0-4d7d-acc1-7b08f54d17ac</gpml:identity>
-            <gpml:revision>GPlates-ba574182-c301-429a-81a0-bd902b65d90c</gpml:revision>
+            <gpml:identity>GPlates-b1483fa1-16cd-4996-8687-7fff7cc81531</gpml:identity>
+            <gpml:revision>GPlates-df53a85d-d360-4fe4-b924-55bb74dc6687</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -6801,8 +6801,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-5486621c-5fb4-49e5-9c20-04c53a726d12</gpml:identity>
-            <gpml:revision>GPlates-4615ab21-7950-48fc-b755-799b9a2a3b99</gpml:revision>
+            <gpml:identity>GPlates-713cf718-3db5-448c-b5f4-95471659631a</gpml:identity>
+            <gpml:revision>GPlates-8c3b6953-cd14-487b-9058-1dd09b30f53a</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -6862,8 +6862,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-6f51249b-56d6-433d-b2e7-712e5788b8e8</gpml:identity>
-            <gpml:revision>GPlates-cb60bd2b-270e-4c98-869e-61daede079a8</gpml:revision>
+            <gpml:identity>GPlates-20443d65-7491-43de-b9fd-bc4c894e123b</gpml:identity>
+            <gpml:revision>GPlates-7ecd54b1-0882-49fe-b8b5-076b90dca5f9</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -6923,8 +6923,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-23dc25b9-836c-4a21-a8c7-4b2a27ebce12</gpml:identity>
-            <gpml:revision>GPlates-a9ffb392-d565-448b-8d3a-261680253b93</gpml:revision>
+            <gpml:identity>GPlates-71c54d4d-d0ed-438d-8b15-6bd27e4f68b9</gpml:identity>
+            <gpml:revision>GPlates-f1347820-4c3f-4367-a891-6d4e2e44b1de</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -6984,8 +6984,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-471cd36d-789f-47db-b59a-74ad8ac11b87</gpml:identity>
-            <gpml:revision>GPlates-456a58a8-279e-4825-93c7-4599dec98ace</gpml:revision>
+            <gpml:identity>GPlates-fecd178b-ff18-4330-8a18-7768d89dce2d</gpml:identity>
+            <gpml:revision>GPlates-4303aaac-0c1a-4c97-bcef-fd19bbd59f03</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -7045,8 +7045,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-f6306647-a34a-4e91-81d3-62ce2e205e72</gpml:identity>
-            <gpml:revision>GPlates-fca5a28a-91c1-4152-b838-53d51914404d</gpml:revision>
+            <gpml:identity>GPlates-82d6839a-d981-405c-ad24-ffcbb761c97b</gpml:identity>
+            <gpml:revision>GPlates-4f04c104-bcd7-4cff-94b5-ed19fdf82201</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -7106,8 +7106,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-7986fb0d-ed6f-4441-91bc-e59db9af6541</gpml:identity>
-            <gpml:revision>GPlates-c4abd4d2-ffd3-4940-a6be-6a04a26dcb9c</gpml:revision>
+            <gpml:identity>GPlates-aaa8ba21-7fb5-4c5b-8d49-b39b0cbc6d1c</gpml:identity>
+            <gpml:revision>GPlates-dbb7f15f-c0a6-44d6-856d-5b2e03584991</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -7167,8 +7167,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-0c27266c-44ef-42fb-bda9-d12ebbef55bc</gpml:identity>
-            <gpml:revision>GPlates-63f5c6ac-ce79-4c90-8be3-16fea1c58163</gpml:revision>
+            <gpml:identity>GPlates-fe33ae75-a815-4252-b426-fb8be6aaff46</gpml:identity>
+            <gpml:revision>GPlates-dea8f30d-98b9-4876-844c-b474d92c4299</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -7228,8 +7228,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-611df4e2-e2cb-4293-979c-a5db2798c28a</gpml:identity>
-            <gpml:revision>GPlates-5746a06f-835b-455b-a153-e42df1904447</gpml:revision>
+            <gpml:identity>GPlates-8708a82c-79e9-49f5-9efb-4104d9587a32</gpml:identity>
+            <gpml:revision>GPlates-fd9a5511-b00c-4f02-817a-77fc2c8000bd</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -7289,8 +7289,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-35c0bb0d-b3d9-4879-906a-b392f61fc65a</gpml:identity>
-            <gpml:revision>GPlates-2bc26bd1-a7ec-483a-9845-4b33db473623</gpml:revision>
+            <gpml:identity>GPlates-b01b7edb-ef67-44de-b8a9-28665903b25f</gpml:identity>
+            <gpml:revision>GPlates-444f3a07-a8d1-4ad9-b45a-84de21f024e6</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -7350,8 +7350,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-d555d084-ea7b-4095-b467-57cc821bb0cc</gpml:identity>
-            <gpml:revision>GPlates-699dfe79-0b42-45e1-bb03-9c42b2121bf6</gpml:revision>
+            <gpml:identity>GPlates-71d53f01-ba9f-4ade-a3cb-d09572ee5a79</gpml:identity>
+            <gpml:revision>GPlates-67516f76-77ba-4cb0-9489-9d50884f0c1e</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -7411,8 +7411,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-606d1c77-06b3-4ca6-a6d8-f89cd2ba9656</gpml:identity>
-            <gpml:revision>GPlates-5640c756-7f06-486b-b715-596c60ede3ae</gpml:revision>
+            <gpml:identity>GPlates-c781b35b-b9a1-4357-b0e0-0dca6218f6a1</gpml:identity>
+            <gpml:revision>GPlates-7db0c741-827f-4a78-9f36-582e28cfce7a</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -7472,8 +7472,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-4478ab2f-af90-4ae8-af0f-80e478246ad5</gpml:identity>
-            <gpml:revision>GPlates-ac03af75-cb2e-4df1-8a0e-2ce5c72464c5</gpml:revision>
+            <gpml:identity>GPlates-37b2bd88-ed3f-469a-823d-78cf470c5bf6</gpml:identity>
+            <gpml:revision>GPlates-a1c2206b-52ad-48d5-80d3-86ad82303e31</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -7533,8 +7533,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-59141446-7f82-4ebd-974c-655f5d08a5f4</gpml:identity>
-            <gpml:revision>GPlates-7af07f17-715b-4798-b762-de07ae603bec</gpml:revision>
+            <gpml:identity>GPlates-ccde8d6c-6542-455c-acc1-9ad809f45f69</gpml:identity>
+            <gpml:revision>GPlates-3954b620-b5e9-4b84-8200-98b0e333cfdc</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -7594,8 +7594,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-8a37e128-ecf4-47f2-a60f-be8ef3254a2a</gpml:identity>
-            <gpml:revision>GPlates-021f525f-cb0b-46dc-96f9-f9ef028335ce</gpml:revision>
+            <gpml:identity>GPlates-a6b9bd4d-c6d2-4c72-862e-537b2c89c2ac</gpml:identity>
+            <gpml:revision>GPlates-a4344e6a-4959-41e8-95bd-367b98486e68</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -7655,8 +7655,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-27657e1a-ac83-417e-af64-2cad6528ef91</gpml:identity>
-            <gpml:revision>GPlates-c46b59cc-4bb1-4878-8dcf-3954e6766428</gpml:revision>
+            <gpml:identity>GPlates-4486767b-1c96-46c0-80c2-90aa92056907</gpml:identity>
+            <gpml:revision>GPlates-7dc70383-fd09-46f6-99fe-c584a2c1660f</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -7716,8 +7716,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-19eb4847-f8a3-40ea-9621-a7656ef687ac</gpml:identity>
-            <gpml:revision>GPlates-64874112-3e5f-43fd-879f-3e79d47cc4bd</gpml:revision>
+            <gpml:identity>GPlates-0d4dbc69-7c52-4177-8270-fb99c7de311e</gpml:identity>
+            <gpml:revision>GPlates-e39d8c64-f8f8-476d-96ec-401b3759ebd9</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -7777,8 +7777,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-3f9c60d8-c3bd-4c7d-8cb3-3b76b4eb13c6</gpml:identity>
-            <gpml:revision>GPlates-dc84da0a-5efc-421f-b120-1618f4dbcc02</gpml:revision>
+            <gpml:identity>GPlates-f39a7ad8-f40f-4f94-91ff-2d8aab33a2f9</gpml:identity>
+            <gpml:revision>GPlates-96f35cac-ab51-4aa6-9c5d-4eb873055fa7</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -7838,8 +7838,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-ba18774d-5232-4128-8aed-57be87a63a6e</gpml:identity>
-            <gpml:revision>GPlates-ae217c92-c0c9-40f1-a8a0-d73c6cae0db2</gpml:revision>
+            <gpml:identity>GPlates-19450ee5-445d-46d6-800e-209188270b48</gpml:identity>
+            <gpml:revision>GPlates-8149f390-b646-4ca2-9569-cd71eb5c64f1</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -7899,8 +7899,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-7892ed34-ba9e-4b60-b5ff-a7379faddadb</gpml:identity>
-            <gpml:revision>GPlates-8921b877-20ca-46a5-8083-c0a759d56f35</gpml:revision>
+            <gpml:identity>GPlates-04728349-cc3b-465a-9500-ffa14ad6f192</gpml:identity>
+            <gpml:revision>GPlates-e91b0973-0bb1-4858-98f1-3582fb65482d</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -7960,8 +7960,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-15c61017-8503-4b94-8e25-c721e0de3ae6</gpml:identity>
-            <gpml:revision>GPlates-bafb1ba6-75a4-4a12-a8f6-711687ec5ba8</gpml:revision>
+            <gpml:identity>GPlates-cf24e94c-6415-4b59-b9eb-d84c03facc6f</gpml:identity>
+            <gpml:revision>GPlates-6c82d203-c3ac-4c1f-9155-d77de8cbf60f</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -8021,8 +8021,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-7cb20101-4ad5-4660-afcf-56efce7a87fd</gpml:identity>
-            <gpml:revision>GPlates-75f3c346-d191-4bea-8284-a879b4967f14</gpml:revision>
+            <gpml:identity>GPlates-dd6adf98-5cf4-454f-b5ce-c79dac619046</gpml:identity>
+            <gpml:revision>GPlates-c3404299-f6dd-4ede-a81b-532ec2f7b272</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -8082,8 +8082,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-e2fb095c-3e35-4c5a-b7d4-48bba0001cc6</gpml:identity>
-            <gpml:revision>GPlates-5abe138a-d3fe-4979-87d2-81ba3279f0c4</gpml:revision>
+            <gpml:identity>GPlates-b1c65c07-3d53-400d-bf18-a384575f8814</gpml:identity>
+            <gpml:revision>GPlates-f96c08cf-4b7b-4b2e-919e-472e3c7cecd5</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -8143,8 +8143,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-616ae35f-3e45-4af5-ae8a-e3299dcc8b84</gpml:identity>
-            <gpml:revision>GPlates-ec3832a8-816a-41b2-830c-01f45ed7a300</gpml:revision>
+            <gpml:identity>GPlates-4bf4bdd2-295a-4445-a372-322dbb1d8a18</gpml:identity>
+            <gpml:revision>GPlates-4ff9a8e7-d286-4496-9b88-0f821a8894af</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -8204,8 +8204,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-863b7087-d672-4bbd-b4dd-7bfcf519ac89</gpml:identity>
-            <gpml:revision>GPlates-024b1ae7-6b8b-4db0-ae6d-ff84ecd0039c</gpml:revision>
+            <gpml:identity>GPlates-c7c0aecb-d8c2-440f-8c15-8a0a881f96b2</gpml:identity>
+            <gpml:revision>GPlates-6cecde89-491f-4362-aee2-677be0eaac9f</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -8265,8 +8265,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-0beca2a5-b521-41e0-b813-5d5fea51f157</gpml:identity>
-            <gpml:revision>GPlates-2423ca5a-e352-4ca9-b75b-3b4ba5ce8343</gpml:revision>
+            <gpml:identity>GPlates-e1f93c4c-27cc-489e-9a26-c01ebf9d9dd5</gpml:identity>
+            <gpml:revision>GPlates-79712ec9-f5c6-47f1-a2ea-088458139ad9</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -8326,8 +8326,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-a177261c-2b79-4c50-8e59-2216c1908770</gpml:identity>
-            <gpml:revision>GPlates-4ee3da61-f7d3-499c-9cf6-e5d29229e04b</gpml:revision>
+            <gpml:identity>GPlates-c590e1ad-8dbd-4c5b-8fb6-6d8e147da893</gpml:identity>
+            <gpml:revision>GPlates-956d93e0-cca1-471f-b1a4-73116f477af1</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -8387,8 +8387,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-ccdd5b7f-ff66-4835-ab90-83fbaee2ff20</gpml:identity>
-            <gpml:revision>GPlates-fe686563-ba25-4dfc-afe2-19022064c3b6</gpml:revision>
+            <gpml:identity>GPlates-91208088-2016-410d-bcc6-fc99097c7d65</gpml:identity>
+            <gpml:revision>GPlates-7e7f4618-46b2-4124-8d79-d7a4ef37fac2</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -8448,8 +8448,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-beff6c64-8755-4dcf-9729-8472217caf12</gpml:identity>
-            <gpml:revision>GPlates-c454bf3b-798d-4f42-951e-cb0add0a06a7</gpml:revision>
+            <gpml:identity>GPlates-5c48f450-5bfc-430d-8dc9-71a23aa8a4b3</gpml:identity>
+            <gpml:revision>GPlates-3a6d550f-d264-4219-af4a-921ff6bd32fe</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -8509,8 +8509,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-9e326752-e70f-40be-861d-b57849896444</gpml:identity>
-            <gpml:revision>GPlates-e0c3dece-3327-411a-a1fd-771ea97e959a</gpml:revision>
+            <gpml:identity>GPlates-8d86059f-d451-4bcf-a4f4-dba1b2b3f9fc</gpml:identity>
+            <gpml:revision>GPlates-79b9468d-26d7-4e76-8b07-6b6817d03d78</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -8570,8 +8570,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-5fe1aeb8-0d26-4ad4-811e-25f59df82076</gpml:identity>
-            <gpml:revision>GPlates-e37ca3c9-2dcd-44a1-a094-cdc0305437ea</gpml:revision>
+            <gpml:identity>GPlates-379cd41b-9734-4f23-af5e-a9f631303916</gpml:identity>
+            <gpml:revision>GPlates-d8cbe93f-171f-4746-9094-b070599b6f38</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -8631,8 +8631,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-de23dce5-80ed-44d7-b5a9-084e4f3a802f</gpml:identity>
-            <gpml:revision>GPlates-fc171734-4fb3-4026-829b-50e59b86ae66</gpml:revision>
+            <gpml:identity>GPlates-f6d38c50-084e-4d9f-a6b0-cdd393d4f920</gpml:identity>
+            <gpml:revision>GPlates-b1612715-93e5-452d-adae-5e4ecbf278af</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -8692,8 +8692,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-e7f83dfd-131a-4040-8ef7-5a91c365fb4c</gpml:identity>
-            <gpml:revision>GPlates-8a98823e-9bf0-4b76-878a-8a4f753b1e56</gpml:revision>
+            <gpml:identity>GPlates-5b2907b8-4101-44ef-be40-4fc5bb29b86a</gpml:identity>
+            <gpml:revision>GPlates-ad922776-9181-4cd9-bfd6-16e17facbac5</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -8753,8 +8753,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-fb3a907e-b565-4dc3-8708-a659200392a3</gpml:identity>
-            <gpml:revision>GPlates-62b73818-12e5-4c37-af80-63f8b6baaee4</gpml:revision>
+            <gpml:identity>GPlates-9f341a6b-55e2-4d40-91c0-e6afe03a0bd0</gpml:identity>
+            <gpml:revision>GPlates-d1c75d02-4c76-4b50-b118-0c4f6ac46d59</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -8814,8 +8814,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-97c642b5-a682-42cb-b7ad-0d1352eb67ee</gpml:identity>
-            <gpml:revision>GPlates-18d01e30-aceb-471e-94d8-eb0e54547380</gpml:revision>
+            <gpml:identity>GPlates-cfaf6d76-a472-4b26-9295-7939af93255a</gpml:identity>
+            <gpml:revision>GPlates-956a48cb-3500-4181-828b-4266fe1a2b30</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -8875,8 +8875,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-f765689f-a09f-41f3-80af-a9f41a560772</gpml:identity>
-            <gpml:revision>GPlates-1ed3c685-a497-4d49-96a0-b38775a31746</gpml:revision>
+            <gpml:identity>GPlates-baf02631-0dc7-43e6-afcd-8caa4855a4df</gpml:identity>
+            <gpml:revision>GPlates-b3685f39-d28b-4d09-86e6-ac7c42cde9b4</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -8936,8 +8936,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-262d77b8-ac1c-4be5-9601-a06ebd4c6726</gpml:identity>
-            <gpml:revision>GPlates-a9499d22-5baf-4cc2-8c0b-f201980ed3d5</gpml:revision>
+            <gpml:identity>GPlates-02f0f781-8ef3-43e2-a145-b613a176a240</gpml:identity>
+            <gpml:revision>GPlates-43383541-e155-4cd7-a4fa-18c2b73293fa</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -8997,8 +8997,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-a5cf2b1a-41d1-4ed7-9668-7e1ef1d25691</gpml:identity>
-            <gpml:revision>GPlates-540f07d3-6eb1-40fd-969d-ec74d8b3a328</gpml:revision>
+            <gpml:identity>GPlates-0b8defbe-321f-4ba8-849d-8c9062bceefe</gpml:identity>
+            <gpml:revision>GPlates-a6a08d68-866a-4bbd-bf5d-11b615bc756d</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -9058,8 +9058,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-b383e876-6e27-446d-b58e-dc82a1b4bf45</gpml:identity>
-            <gpml:revision>GPlates-553fb611-356d-4376-88c7-86610ce98fdc</gpml:revision>
+            <gpml:identity>GPlates-1069f275-06ea-4848-be5e-acc7a770d561</gpml:identity>
+            <gpml:revision>GPlates-793543ef-93bf-428b-969a-adc63fdbdded</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -9119,8 +9119,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-0f1fe4b1-36d2-4b81-b078-c324376a8ce4</gpml:identity>
-            <gpml:revision>GPlates-cbaba2e6-e7cf-4fef-8620-0b24cd7c03cc</gpml:revision>
+            <gpml:identity>GPlates-e9237b71-6c8c-4fe0-ad77-39eb6ea7934a</gpml:identity>
+            <gpml:revision>GPlates-d7e1c492-3381-4db8-84dd-d19ed7bdb920</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -9180,8 +9180,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-0512c155-0f42-4c62-b044-8721a4ee8abe</gpml:identity>
-            <gpml:revision>GPlates-0da446eb-5c06-42be-a813-d51d7f94ce4d</gpml:revision>
+            <gpml:identity>GPlates-4169890f-18eb-4931-bfa9-e76b755b7add</gpml:identity>
+            <gpml:revision>GPlates-f3fff589-2ebb-4003-8020-af2bd13b84aa</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -9241,8 +9241,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-ece16940-04af-4e0d-ba11-d895321a43a2</gpml:identity>
-            <gpml:revision>GPlates-da208129-6176-41dd-bd8b-b03c2e237dda</gpml:revision>
+            <gpml:identity>GPlates-7d790aab-9d51-4e04-aa88-65ec0064d085</gpml:identity>
+            <gpml:revision>GPlates-95140760-2cfb-4f78-8a20-af37dee4147a</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -9302,8 +9302,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-7c7d567e-6220-4df6-9bd5-0fa601d486ae</gpml:identity>
-            <gpml:revision>GPlates-37a27139-481d-4ec1-a818-29e370c72bff</gpml:revision>
+            <gpml:identity>GPlates-7170654f-69c0-47e8-8d3b-a0965f527b05</gpml:identity>
+            <gpml:revision>GPlates-b888044d-c89e-4a46-9c0d-a1bdd4897d80</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -9363,8 +9363,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-ed0419c2-96aa-4705-817e-858fa7dba63f</gpml:identity>
-            <gpml:revision>GPlates-78aa4b40-5178-4983-b3cf-fffd880eae22</gpml:revision>
+            <gpml:identity>GPlates-337a46bf-df19-4672-bd49-32a8868b7c84</gpml:identity>
+            <gpml:revision>GPlates-91d3af9d-29fe-4b25-8a06-39292831c76c</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -9424,8 +9424,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-cc8e04aa-527f-4733-9b32-8e139ce54b16</gpml:identity>
-            <gpml:revision>GPlates-a6db7aa2-7f57-4ada-98ba-e15a1c38693a</gpml:revision>
+            <gpml:identity>GPlates-dfd42786-c8a2-4a4d-9409-b0f7252411c9</gpml:identity>
+            <gpml:revision>GPlates-e712085d-8fca-47fd-b8f4-523d8e5a5a48</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -9485,8 +9485,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-45054a30-18f0-455a-a8e3-7249f4262db0</gpml:identity>
-            <gpml:revision>GPlates-1e8c1ef9-fc6d-47bb-98ff-5f806e7fed78</gpml:revision>
+            <gpml:identity>GPlates-0a5c8bba-d51d-4c55-b8f8-966d2abeac73</gpml:identity>
+            <gpml:revision>GPlates-013efc9c-6f0a-49d1-8f4f-68398a1bac47</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -9546,8 +9546,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-b6adf465-75ca-4413-a3df-f4788e68be3b</gpml:identity>
-            <gpml:revision>GPlates-5bc2d0e9-c1d0-4592-ad99-6d2449ea04f8</gpml:revision>
+            <gpml:identity>GPlates-0355deb5-6c48-48ed-918c-c4d169ed276a</gpml:identity>
+            <gpml:revision>GPlates-9b47f268-f8fa-46f2-ae66-b0f407132085</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -9607,8 +9607,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-500c584c-02e3-4244-b4f6-a6791a99c459</gpml:identity>
-            <gpml:revision>GPlates-f1b6f1fc-c8c2-4d90-9e2b-9103cacbc0fd</gpml:revision>
+            <gpml:identity>GPlates-a4c7d359-a1a6-4fd8-b0b6-b5f6aac954f3</gpml:identity>
+            <gpml:revision>GPlates-b7b17b72-112b-4747-848d-7b25ce416038</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -9668,8 +9668,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-2482a73d-e630-4544-b3dc-34e3ffefd6a9</gpml:identity>
-            <gpml:revision>GPlates-1d977d05-cccb-461c-9cfd-eae37812e8bc</gpml:revision>
+            <gpml:identity>GPlates-3cd04b28-1ded-4dff-af6e-56b61e67417a</gpml:identity>
+            <gpml:revision>GPlates-76258891-10cc-4d47-b086-72f39d3eeba9</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -9729,8 +9729,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-f2066af2-66b4-48aa-a168-c1f984c77be3</gpml:identity>
-            <gpml:revision>GPlates-83dd7b5d-9eb8-4717-98d3-0fcffacb2a84</gpml:revision>
+            <gpml:identity>GPlates-f08aaaff-4d3c-4778-aee5-f5bda308845d</gpml:identity>
+            <gpml:revision>GPlates-178080db-1e7d-471f-be31-9120a0d39cc5</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -9790,8 +9790,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:UnclassifiedFeature>
-            <gpml:identity>GPlates-d27ae64e-4de5-431f-9ac6-86356241f446</gpml:identity>
-            <gpml:revision>GPlates-d0b4e8fc-d155-46db-ad86-6f9b3fd68ed6</gpml:revision>
+            <gpml:identity>GPlates-f6aa791c-0cab-44b6-877b-b551a470e4ac</gpml:identity>
+            <gpml:revision>GPlates-b817972d-77d4-47b6-b620-96b5d4e7a531</gpml:revision>
             <gpml:unclassifiedGeometry>
                 <gpml:ConstantValue>
                     <gpml:value>
