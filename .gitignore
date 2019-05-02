@@ -1,9 +1,7 @@
 .ipynb_checkpoints/*
 .ipynb_checkpoints/VDM_distances-checkpoint.ipynb
-tmp.shx
-tmp.shp
-tmp.prj
-tmp.dbf
+tmp.*
+tmp2.*
 .DS_Store
 .ipynb_checkpoints/VDM_distances-checkpoint.ipynb
 .ipynb_checkpoints/VDM_distances-checkpoint.ipynb
@@ -11,3 +9,4 @@ MullerData/continental_polygons2.gpmlz
 
 topology_plotting.pyc
 
+images/sub*
