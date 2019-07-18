@@ -14,3 +14,10 @@ images/VDM*
 *.pyc
 
 *.mp4
+
+Figure8/tmp/*
+Figure8/gmt.conf
+Figure8/gmt.history
+Figure8/subduction_age.cpt
+Figure8/continent_age.cpt
+Figure8/M2016_subduction_2x2.png
