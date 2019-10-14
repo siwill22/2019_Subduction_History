@@ -1,6 +1,8 @@
 # SubductionAnalysis
 
-Data and Jupyter Notebooks to reproduce the analysis of subduction history reconstructions from Ulvrova et al (in review)
+Data and Jupyter Notebooks to reproduce the analysis of subduction history reconstructions from Ulvrova et al (EPSL)
+
+https://doi.org/10.1016/j.epsl.2019.115836
 
 ## Contents
 
